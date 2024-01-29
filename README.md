@@ -1,4 +1,4 @@
-# Official Implementation for paper: [Safe Deep Policy Adaptation](https://sites.google.com/view/safe-deep-policy-adaptation)
+# Official Implementation for [Safe Deep Policy Adaptation](https://sites.google.com/view/safe-deep-policy-adaptation)
 
 ## TODO:
 
